@@ -1,3 +1,6 @@
+Vincent Van Gogh was a troubled Dutch painter, spending most of his life in the Hague, and wandering across the country for several months.
+//https://www.biography.com/artist/vincent-van-gogh
+
 <img alt="Cypresses" height="480" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/437980/794518/main-image" width="619"/>
 
 Vincent Van Gogh, 1889, "Cypresses", https://www.metmuseum.org/art/collection/search/437980
