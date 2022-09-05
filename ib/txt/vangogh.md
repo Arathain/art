@@ -1,4 +1,4 @@
-Vincent Van Gogh was a troubled Dutch painter, spending most of his life in the Hague, and wandering across the country for several months.
+Vincent Van Gogh was a troubled Dutch painter, spending most of his life in the Hague, and wandering across the country for several months. He was highly religious but also notoriously unstable at times, being locked up in an asylum for a while.
 //https://www.biography.com/artist/vincent-van-gogh
 
 <img alt="Cypresses" height="480" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/437980/794518/main-image" width="619"/>
