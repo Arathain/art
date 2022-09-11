@@ -41,6 +41,3 @@ Works Cited
 <p style="padding-left: 2em; text-indent: -2em;">Van Gogh, Vincent. *The Old Mill*, 1888. *Buffalo AKG Art Museum*, https://buffaloakg.org/artworks/1966922-la-maison-de-la-crau-old-mill, oil on canvas</p>
 <p style="padding-left: 2em; text-indent: -2em;">Van Gogh, Vincent. *Starry Night over the Rhone*, 1888. *Musee d'Orsay*, https://www.musee-orsay.fr/en/artworks/la-nuit-etoilee-78696, Oil on canvas</p>
 
-{::comment}
-This text is completely ignored by kramdown - a comment in the text.
-{:/comment}
