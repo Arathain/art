@@ -37,8 +37,8 @@ Gogh's *Starry Night Over The Rhone*, like many others that Van Gogh made, is ea
 Works Cited
 </p>
 
-Jansen, Leo, et al. "Vincent van Gogh - The Letters." October 2021, Amsterdam & The Hague: Van Gogh Museum & Huygens ING. https://vangoghletters.org.
-Van Gogh, Vincent. *Cypresses*, 1889. *The Metropolitan Museum Of Art*, https://www.metmuseum.org/art/collection/search/437980, oil on canvas
-Van Gogh, Vincent. *The Old Mill*, 1888. *Buffalo AKG Art Museum*, https://buffaloakg.org/artworks/1966922-la-maison-de-la-crau-old-mill, oil on canvas
-Van Gogh, Vincent. *Starry Night over the Rhone*, 1888. *Musee d'Orsay*, https://www.musee-orsay.fr/en/artworks/la-nuit-etoilee-78696, Oil on canvas
+<p>Jansen, Leo, et al. "Vincent van Gogh - The Letters." October 2021, Amsterdam & The Hague: Van Gogh Museum & Huygens ING. https://vangoghletters.org.</p>
+<p>Van Gogh, Vincent. *Cypresses*, 1889. *The Metropolitan Museum Of Art*, https://www.metmuseum.org/art/collection/search/437980, oil on canvas</p>
+<p>Van Gogh, Vincent. *The Old Mill*, 1888. *Buffalo AKG Art Museum*, https://buffaloakg.org/artworks/1966922-la-maison-de-la-crau-old-mill, oil on canvas</p>
+<p>Van Gogh, Vincent. *Starry Night over the Rhone*, 1888. *Musee d'Orsay*, https://www.musee-orsay.fr/en/artworks/la-nuit-etoilee-78696, Oil on canvas</p>
 
