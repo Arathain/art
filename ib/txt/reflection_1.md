@@ -1,0 +1,5 @@
+# Reflection on Van Gogh-inspired piece
+<p>The work was not a particularly good means of representing my texture & perspective skills,
+and thus it mainly showcases my lighting & colour-picking skills. Van Gogh's style is rather abstract by default, while still retaining a considerable amount of visible artistic skill,
+and as such it is very alien to my line-oriented style, limiting how much I could play with the medium. By using a reference, I also deprived myself of actually laying the perspective out by myself, 
+making the background & lighting really be my main, if not only, real innovation within the piece. In my next work(s), I will probably prioritise character art & a mixture of character and landscape over pure landscape, simply because I'm generally more well-versed in the former, and it allows me to engage with theme and form more creatively. I'd also like to experiment with different paint brushes, seeing as the one I used made handling colour rather difficult, by virtue of composing a stroke out of many offsets of the chosen colour. I do not regret trying this specific brush & style out, however I doubt I will use it in the future.</p>
